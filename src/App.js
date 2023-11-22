@@ -10,7 +10,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
-          class="bg-sky-500 hover:bg-sky-700 ..."
+          class="rounded-sm bg-violet-500 hover:bg-violet-600 active:bg-violet-700 focus:outline-none focus:ring focus:ring-violet-300 ..."
           // className="App-link"
           href="https://reactjs.org"
           target="_blank"
